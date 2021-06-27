@@ -2,7 +2,7 @@
   "name": "sfmcjbcustomactivities",
   "version": "0.0.1",
   "main": "app.js",
-  "author": "Shiv Bagherwal",
+  "author": "Sasha Rao",
   "description": "Journey Builder Custom Activities",
   "scripts": {
     "dev": "concurrently \"npm start\" \"webpack --watch\"",
