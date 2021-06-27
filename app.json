@@ -1,6 +1,6 @@
 {
   "name": "Custom Activity",
   "description": "Journey Builder Custom Activity.",
-  "repository": "https://github.com/ShivBagherwal/sfmcjbcustomactivities.git",
+  "repository": "https://github.com/mvoonna/sfmcjbcustomactivities/",
   "keywords": ["node", "express", "static"]
 }
